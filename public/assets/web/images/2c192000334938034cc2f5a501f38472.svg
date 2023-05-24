@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 301 172" style="enable-background:new 0 0 301 172;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{opacity:0.3;}
+	.st3{fill:#358935;}
+	.st4{opacity:0.7;}
+	.st5{fill:#595959;}
+	.st6{fill:#009CDF;}
+	.st7{fill:#FDBF0F;}
+	.st8{clip-path:url(#SVGID_4_);}
+	.st9{font-family:'Mont-Bold';}
+	.st10{font-size:14.3312px;}
+	.st11{font-family:'Mont-Regular';}
+	.st12{font-size:9.5541px;}
+</style>
+<g>
+	<rect x="0.5" y="-0.1" class="st0" width="301" height="172"/>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="0.5" y="-0.1" width="301" height="172"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st1">
+				<g class="st2">
+				</g>
+				<polygon class="st3" points="202.1,-91.9 326.7,1.6 272,126.4 				"/>
+				<path class="st3" d="M266,132.4L198.8-77.7l119.9,90L266,132.4 M265.8,136.6l54.8-124.8L196-81.7L265.8,136.6L265.8,136.6z"/>
+				<g class="st4">
+					<polygon class="st5" points="322.6,-60.5 358.5,91.7 214.4,209 					"/>
+				</g>
+				<polygon class="st6" points="322.6,-60.5 404,203.4 214.4,209 				"/>
+				<path class="st7" d="M225.8,209L334-60.5l81.4,263.9L225.8,209 M224.1,210.2l1.7-0.1l189.6-5.6l1.5,0l-0.4-1.4L335-60.8l-0.9-3
+					l-1.2,2.9L224.8,208.6L224.1,210.2L224.1,210.2z"/>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<rect id="SVGID_3_" x="0.5" y="-0.1" width="301" height="172"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st8">
+				<g class="st2">
+				</g>
+				<polygon class="st3" points="96.3,265.1 -28.3,171.6 26.4,46.8 				"/>
+				<path class="st3" d="M32.3,40.8l67.2,210.1l-119.9-90L32.3,40.8 M32.6,36.6l-54.8,124.8l124.6,93.5L32.6,36.6L32.6,36.6z"/>
+				<g class="st4">
+					<polygon class="st5" points="-24.2,233.7 -60.1,81.5 83.9,-35.8 					"/>
+				</g>
+				<polygon class="st6" points="-24.2,233.7 -105.6,-30.2 83.9,-35.8 				"/>
+				<path class="st7" d="M72.6-35.8L-35.6,233.7L-117-30.2L72.6-35.8 M74.2-37l-1.7,0.1L-117-31.3l-1.5,0l0.4,1.4L-36.7,234l0.9,3
+					l1.2-2.9L73.6-35.4L74.2-37L74.2-37z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 77.0898 93.9072)" class="st6 st9 st10">Your Name Here</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 88.6611 127.4824)" class="st3 st11 st12">Your Email Here</text>
+	<text transform="matrix(1 0 0 1 88.0156 141.8887)" class="st3 st11 st12">Your Number Here</text>
+	<text transform="matrix(1 0 0 1 88.0156 155.6895)" class="st3 st11 st12">Your Address Here</text>
+	<g id="XMLID_215_">
+		<path id="XMLID_221_" class="st3" d="M81.8,120.8c2.2,0,4.1,1.8,4.1,4.1s-1.8,4.1-4.1,4.1c-2.2,0-4.1-1.8-4.1-4.1
+			S79.5,120.8,81.8,120.8 M81.8,120.2c-2.6,0-4.7,2.1-4.7,4.7s2.1,4.7,4.7,4.7c2.6,0,4.7-2.1,4.7-4.7S84.3,120.2,81.8,120.2
+			L81.8,120.2z"/>
+		<g id="XMLID_216_">
+			<polygon id="XMLID_220_" class="st3" points="81.7,124.9 79.9,123.5 83.6,123.5 			"/>
+			<polygon id="XMLID_219_" class="st3" points="81.1,124.8 79.6,126 79.6,123.7 			"/>
+			<polygon id="XMLID_218_" class="st3" points="81.4,125 81.7,125.3 82.2,125 83.6,126.2 79.9,126.2 			"/>
+			<polygon id="XMLID_217_" class="st3" points="82.4,124.8 83.9,123.7 83.9,126 			"/>
+		</g>
+	</g>
+	<g id="XMLID_200_">
+		<g id="XMLID_208_">
+			<path id="XMLID_209_" class="st3" d="M82.7,137.1h-1.9c-0.2,0-0.3,0.1-0.3,0.3v3.8c0,0.2,0.1,0.3,0.3,0.3h1.9
+				c0.2,0,0.3-0.1,0.3-0.3v-3.8C83,137.2,82.9,137.1,82.7,137.1z M81.3,137.3h0.9c0,0,0,0,0,0.1c0,0,0,0.1,0,0.1h-0.9
+				C81.3,137.4,81.2,137.4,81.3,137.3C81.2,137.3,81.3,137.3,81.3,137.3z M81.8,141.2c-0.1,0-0.2-0.1-0.2-0.2c0-0.1,0.1-0.2,0.2-0.2
+				c0.1,0,0.2,0.1,0.2,0.2C82,141.1,81.9,141.2,81.8,141.2z M82.8,140.5h-2v-2.9h2V140.5z"/>
+		</g>
+		<path id="XMLID_201_" class="st3" d="M81.8,135.2c2.2,0,4.1,1.8,4.1,4.1s-1.8,4.1-4.1,4.1c-2.2,0-4.1-1.8-4.1-4.1
+			S79.5,135.2,81.8,135.2 M81.8,134.6c-2.6,0-4.7,2.1-4.7,4.7s2.1,4.7,4.7,4.7c2.6,0,4.7-2.1,4.7-4.7S84.3,134.6,81.8,134.6
+			L81.8,134.6z"/>
+	</g>
+	<g>
+		<path id="XMLID_192_" class="st3" d="M81.8,149c2.2,0,4.1,1.8,4.1,4.1s-1.8,4.1-4.1,4.1c-2.2,0-4.1-1.8-4.1-4.1S79.5,149,81.8,149
+			 M81.8,148.4c-2.6,0-4.7,2.1-4.7,4.7s2.1,4.7,4.7,4.7c2.6,0,4.7-2.1,4.7-4.7S84.3,148.4,81.8,148.4L81.8,148.4z"/>
+		<path id="XMLID_184_" class="st3" d="M81.7,155.2c-0.1-0.2-0.2-0.3-0.3-0.5c-0.3-0.5-0.6-1-0.9-1.5c-0.1-0.2-0.2-0.4-0.3-0.6
+			c-0.2-0.8,0.4-1.6,1.2-1.7c0.8-0.1,1.5,0.4,1.6,1.2c0.1,0.3,0,0.7-0.2,1c-0.2,0.3-0.4,0.6-0.5,0.9C82.2,154.4,82,154.8,81.7,155.2
+			C81.8,155.2,81.8,155.2,81.7,155.2z M82.5,152.4c0-0.4-0.3-0.7-0.7-0.7c-0.4,0-0.7,0.3-0.7,0.7c0,0.4,0.3,0.7,0.7,0.7
+			C82.2,153.1,82.5,152.7,82.5,152.4z"/>
+	</g>
+</g>
+</svg>
